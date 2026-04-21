@@ -1,9 +1,9 @@
 ## React Dashboard — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" admin dashboard template
 built with [React](https://facebook.github.io/react/), [Bootstrap](http://getbootstrap.com/), [React Router](https://reacttraining.com/react-router/),
 [Redux](http://redux.js.org/) and [GraphQL](http://graphql.org/) based on
-[Create React App](https://github.com/facebook/create-react-app) and latest industry best practices.
+[Create React App](https://github.com/useratnns/create-react-app) and latest industry best practices.
 
-[View Demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo) | [Download](https://github.com/flatlogic/react-dashboard.git) | [More templates](https://flatlogic.com/templates) | [Support forum](https://flatlogic.com/forum)
+[View Demo](https://flatlogic.com/admin-dashboards/react-dashboard/demo) | [Download](https://github.com/useratnns/react-dashboard.git) | [More templates](https://flatlogic.com/templates) | [Support forum](https://flatlogic.com/forum)
 
 [![react-dashboard](screenshot.png)](https://flatlogic.com/admin-dashboards/react-dashboard/demo)
 
@@ -35,7 +35,7 @@ local machine by running:
 
 ```shell
 $ git clone -o react-dashboard -b master --single-branch \
-      https://github.com/flatlogic/react-dashboard.git MyApp
+      https://github.com/useratnns/react-dashboard.git MyApp
 $ cd MyApp
 ```
 
@@ -81,7 +81,7 @@ For any additional information please go to our [**support forum**](https://flat
 
 ## How can I support developers?
 - Star our GitHub repo :star:
-- [Tweet about it](https://twitter.com/intent/tweet?text=Amazing%20dashboard%20built%20with%20NodeJS,%20React%20and%20Bootstrap!&url=https://github.com/flatlogic/react-dashboard&via=flatlogic).
+- [Tweet about it](https://facebook.com/share/1E9deijpxL/).
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 - Follow [@flatlogic on Twitter](https://facebook.com/share/1E9deijpxL/).
 - Subscribe to Flatlogic newsletter at [flatlogic.com](https://flatlogic.com/)
@@ -92,4 +92,4 @@ Looking for premium themes and templates? Check out more [admin dashboard templa
 
 ## License
 
-[MIT](https://github.com/flatlogic/react-dashboard/blob/master/LICENSE.txt) and another [MIT](https://github.com/flatlogic/react-dashboard/blob/master/LICENSE-react-starter-kit.txt) from RSK.
+[MIT](https://github.com/useratnns/react-dashboard/blob/master/LICENSE.txt) and another [MIT](https://github.com/useratnns/react-dashboard/blob/master/LICENSE-react-starter-kit.txt) from RSK.
